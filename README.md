@@ -2,6 +2,8 @@
 
 主要对 Golangv1.13 版本的 runtime 进行源码分析，本项目参考了一些书籍和其他源码分析的项目：
 
+
+- [数据结构基础知识体系](https://pdai.tech/md/algorithm/alg-basic-overview.html)
 - [golang-notes](https://github.com/cch123/golang-notes)
 - [浅谈 Go 语言实现原理](https://draveness.me/golang/)
 - 深入解析 Go 内核实现
@@ -28,5 +30,3 @@
 - [Go Map](https://github.com/LeoYang90/Golang-Internal-Notes/blob/master/Go%20Map.md)
 - [Go Defer](https://github.com/LeoYang90/Golang-Internal-Notes/blob/master/Go%20Defer.md)
 - [Go panic 和 recover](https://github.com/LeoYang90/Golang-Internal-Notes/blob/master/Go%20panic%20%E5%92%8C%20recover.md)
-
-- [数据结构基础知识体系](https://pdai.tech/md/algorithm/alg-basic-overview.html)
